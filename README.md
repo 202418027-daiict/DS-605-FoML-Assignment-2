@@ -1,5 +1,5 @@
 # **DS605: Foundation of Machine Learning**
-### Academic Year 2024-25 [Autumn] LAB ASSIGNMENT 1
+### Academic Year 2024-25 [Autumn] LAB ASSIGNMENT 2
 
 ### Instructor:
 * Dr. Arpit Rana
