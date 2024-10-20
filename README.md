@@ -9,7 +9,7 @@
 * Himanshu Beniwal
 * Bhavan Bhatt
 
-## **  Group08: THE OUTFLIERS **
+## ** Group08: THE OUTFLIERS **
 ### Group Leader:
 * Kumar Sanskar (202418027)
 
