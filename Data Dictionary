@@ -1,46 +1,46 @@
-| Feature                      | Description                                                         |
-------------------------------------------------------------------------------------------------------
-| Age                          | Age of the player in years                                         |
-| Overall                      | Overall rating of the player's performance                          |
-| Pace                         | A player's overall speed, including acceleration and sprinting      |
-| Shooting                     | Accuracy and power of a player's shots                              |
-| Passing                      | Ability to pass the ball accurately and efficiently                |
-| Dribbling                   | A player's skill in controlling and maneuvering the ball           |
-| Defending                    | Overall ability to defend against opponents                         |
-| Physicality                  | Physical attributes such as strength, stamina, and aggression      |
-| Acceleration                 | Speed at which a player reaches full speed                          |
-| Sprint                       | Top speed of a player                                              |
+| Feature                      | Description                                                             |
+----------------------------------------------------------------------------------------------------------
+| Age                          | Age of the player in years                                              |
+| Overall                      | Overall rating of the player's performance                              |
+| Pace                         | A player's overall speed, including acceleration and sprinting          |
+| Shooting                     | Accuracy and power of a player's shots                                  |
+| Passing                      | Ability to pass the ball accurately and efficiently                     |
+| Dribbling                    | A player's skill in controlling and maneuvering the ball                |
+| Defending                    | Overall ability to defend against opponents                             |
+| Physicality                  | Physical attributes such as strength, stamina, and aggression           |
+| Acceleration                 | Speed at which a player reaches full speed                              |
+| Sprint                       | Top speed of a player                                                   |
 | Positioning                  | A player's ability to position themselves in the correct attacking areas|
-| Finishing                    | A player's ability to complete attacks and score goals             |
-| Shot                         | Long-range shooting accuracy and power                              |
-| Long                         | Ability to make long passes                                        |
-| Volleys                      | Technique and accuracy in volley shots                              |
-| Penalties                    | Accuracy and technique in taking penalty shots                      |
-| Vision                       | Awareness and passing ability to deliver key passes                 |
-| Crossing                     | Ability to deliver accurate crosses into the box                    |
-| Free Kicks                  | Accuracy and technique in taking free-kicks                        |
-| Curve                        | Ability to apply swerve and curve on passes and shots              |
-| Agility                      | Ability to change direction quickly and maintain control            |
-| Balance                      | Player's balance and coordination in movement                       |
-| Reactions                    | Speed of reaction to events on the field                            |
-| Ball Control                 | Ball control, including first touch and dribbling ability          |
-| Composure                    | Ability to stay calm and perform well under pressure                |
-| Interceptions                | Ability to intercept passes and cut off attacking moves            |
-| Heading                      | Ability to win aerial duels and accurately direct headers          |
-| Defending                    | Tackling and overall defensive abilities                             |
-| Standing Tackle              | Effectiveness in standing tackles                                   |
-| Sliding Tackle               | Effectiveness in sliding tackles                                    |
-| Jumping Tackle               | Vertical leap and heading ability in aerial duels                  |
-| Stamina                      | Ability to maintain performance throughout the match                |
-| Strength                     | Physical strength in duels and challenges                           |
-| Aggression                   | Willingness and intensity in physical challenges                    |
-| Weak foot                    | Ability to use the non-dominant foot effectively                   |
-| Skill moves                  | Ability to perform advanced dribbling and technical moves          |
-| GK                          | Goalkeeper-related attribute                                         |
-| posi_Defender                | Indicates if the player is primarily a defender                     |
-| posi_Forward                 | Indicates if the player is primarily a forward                      |
-| posi_Goalkeeper              | Indicates if the player is primarily a goalkeeper                   |
-| posi_Midfielder              | Indicates if the player is primarily a midfielder                   |
-| Preferred foot_Left          | Indicates if the player's preferred foot is left                    |
-| Preferred foot_Right         | Indicates if the player's preferred foot is right                   |
-+------------------------------+---------------------------------------------------------------------+
+| Finishing                    | A player's ability to complete attacks and score goals                  |
+| Shot                         | Long-range shooting accuracy and power                                  |
+| Long                         | Ability to make long passes                                             |
+| Volleys                      | Technique and accuracy in volley shots                                  |
+| Penalties                    | Accuracy and technique in taking penalty shots                          |
+| Vision                       | Awareness and passing ability to deliver key passes                     |
+| Crossing                     | Ability to deliver accurate crosses into the box                        |
+| Free Kicks                   | Accuracy and technique in taking free-kicks                             |
+| Curve                        | Ability to apply swerve and curve on passes and shots                   |
+| Agility                      | Ability to change direction quickly and maintain control                |
+| Balance                      | Player's balance and coordination in movement                           |
+| Reactions                    | Speed of reaction to events on the field                                |
+| Ball Control                 | Ball control, including first touch and dribbling ability               |
+| Composure                    | Ability to stay calm and perform well under pressure                    |
+| Interceptions                | Ability to intercept passes and cut off attacking moves                 |
+| Heading                      | Ability to win aerial duels and accurately direct headers               |
+| Defending                    | Tackling and overall defensive abilities                                |
+| Standing Tackle              | Effectiveness in standing tackles                                       |
+| Sliding Tackle               | Effectiveness in sliding tackles                                        |
+| Jumping Tackle               | Vertical leap and heading ability in aerial duels                       |
+| Stamina                      | Ability to maintain performance throughout the match                    |
+| Strength                     | Physical strength in duels and challenges                               |
+| Aggression                   | Willingness and intensity in physical challenges                        |
+| Weak foot                    | Ability to use the non-dominant foot effectively                        |
+| Skill moves                  | Ability to perform advanced dribbling and technical moves               |
+| GK                           | Goalkeeper-related attribute                                            |
+| posi_Defender                | Indicates if the player is primarily a defender                         |
+| posi_Forward                 | Indicates if the player is primarily a forward                          |
+| posi_Goalkeeper              | Indicates if the player is primarily a goalkeeper                       |
+| posi_Midfielder              | Indicates if the player is primarily a midfielder                       |
+| Preferred foot_Left          | Indicates if the player's preferred foot is left                        |
+| Preferred foot_Right         | Indicates if the player's preferred foot is right                       |
++------------------------------+--------------------------------------------------------------------------
