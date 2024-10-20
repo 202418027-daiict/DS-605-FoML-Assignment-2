@@ -18,7 +18,7 @@
 * Lokesh Kumawat (202418028)
 * Saarthak Jindal (202418046)
 
-## ** Classifying Football Players' Attacking and Defensive Work Rate on FC24 Player Data**
+## ** Classifying Football Players' Attacking and Defensive Work Rate on FC24 Player Data **
 
 ### Credit for the dataset:
 
